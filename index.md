@@ -23,8 +23,8 @@ Welcome! I'm an instructional designer focused on minimal, learner-centered cont
 ---
 
 ### 📊 Presentation — "Digital economy of SCO member states"
-
-- [view online](https://prezi.com/view/UlYX7xNZB0Go7F6R0Ct9/)
+- **Tool**: Prezi
+- **Link**: [View online](https://prezi.com/view/UlYX7xNZB0Go7F6R0Ct9/)
 - Description: A slide deck designed for an international relations lecture.
 
 ---
