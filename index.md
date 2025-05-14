@@ -29,11 +29,11 @@ Welcome! I'm an instructional designer focused on minimal, learner-centered cont
 
 ---
 
-## 🗺️ Interaction Map
+## 🗺️ Interaction Map in German/Russian
 
-![Interaction Map Thumbnail](assets/interaction-map-thumbnail.jpg)
+![Interaction Map Thumbnail](assets/interaction-map.png)
 
-- A flowchart-style interaction map showing learner decision paths and feedback triggers.
+- An interaction map showing learner geography and highlights of a region.
 
 ---
 
