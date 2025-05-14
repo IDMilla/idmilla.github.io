@@ -6,19 +6,19 @@ Welcome! I'm an instructional designer focused on minimal, learner-centered cont
 
 ## 🎓 Featured Projects
 
-### 🧩 Interactive Scenario Module (iSpring)
+### 🧩 Interactive Course with gamification and sound (iSpring)
 
-- **Tool**: iSpring Suite
-- **Link**: [View Project](https://yourlink.com)
-- Description: A branching scenario module designed for time-critical decision-making in onboarding.
+- **Tool**: iSpring Max Suite  
+- **Link**: [View Project]()
+- Description: A basics birding course designed for young nature-guides and nature-lovers.
 
 ---
 
-### 🎞️ Microlearning Demo
+### 🎞️ An inclusive Math-course with AI-voiceover 
 
-- **Tool**: iSpring + PowerPoint
-- **Link**: [Watch Demo](https://yourlink.com)
-- Description: A compact module for mobile learning on data protection basics.
+- **Tool**: iSpring Max Suite + PowerPoint
+- **Link**: [View Project](https://yourlink.com)
+- Description: A course on matrixes for mathematical classes - multiple level's quest.
 
 ---
 
