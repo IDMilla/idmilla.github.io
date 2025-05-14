@@ -1,4 +1,4 @@
-# Learning Flow Portfolio
+# ID Milla
 
 Welcome! I'm an instructional designer focused on minimal, learner-centered content. This portfolio features samples of interactive modules, visual maps, and hand-drawn learning aids.
 
