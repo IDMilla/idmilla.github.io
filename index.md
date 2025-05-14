@@ -47,10 +47,11 @@ Hand-drawn instructional illustrations supporting cognitive load management.
 ---
 
 ## 🔗 Infographic design
-
+Inforgraphic for Galaxy Tool and Genes analysis
 - **Tool**: PowerPoint + Adobe Photoshop
 - **Link**: [View project](https://drive.google.com/file/d/1xI38q3h2aRx2UUlwxut7Z9xl90nJ2KUU/view?usp=sharing)
-- Description: Inforgraphic for Galaxy Tool and Genes analysis 
+  
+  
 ---
 
 ## 📬 Contact
