@@ -9,8 +9,7 @@ Welcome! I'm an instructional designer focused on minimal, learner-centered cont
 ### 🧩 Interactive Course with gamification and sound (iSpring)
 
 - **Tool**: iSpring Max Suite
-- Press play or open in a new window:
-  
+
  ![Demo](assets/project1_birding.gif)
 
 - Description: A basics birding course designed for young nature-guides and nature-lovers.
