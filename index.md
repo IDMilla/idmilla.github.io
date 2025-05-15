@@ -11,7 +11,7 @@ Welcome! I'm an instructional designer focused on minimal, learner-centered cont
 - **Tool**: iSpring Max Suite
 - Press play or open in a new window:
   
- ![Demo](https://github.com/IDMilla/idmilla.github.io/blob/main/assets/project1_birding.gif)
+ ![Demo](https://github.com/IDMilla/idmilla.github.io/blob/main/assets/project1_birding_optimized.gif)
 
 - Description: A basics birding course designed for young nature-guides and nature-lovers.
 
