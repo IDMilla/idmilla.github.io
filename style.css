@@ -1,0 +1,140 @@
+body {
+  font-family: Georgia, serif;
+  color: #333;
+  background-color: #fff;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Adjust main container layout */
+.container {
+  margin-left: 0;              
+  margin-right: 300px;         
+  padding: 2em;
+  max-width: 720px;
+}
+
+header {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 2em;
+}
+
+h1 {
+  font-size: 2.4em;
+  margin-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 2em;
+  color: #222;
+}
+
+h3 {
+  font-size: 1.3em;
+  margin-top: 1.5em;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+video, img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+p {
+  margin: 0.5em 0;
+}
+
+/* Sidebar styles */
+/* Sidebar initially visible */
+.sidebar {
+  background-color: #f9f9f9;
+  border-left: 1px solid #eee;
+  padding: 2em 1em 3em 1em;
+  width: 280px; /* a bit wider */
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  top: 0;
+  right: 0; /* Sidebar on the right */
+  transition: transform 0.3s ease;
+  transform: translateX(0);
+  box-sizing: border-box;
+  z-index: 999;
+}
+
+/* Hide sidebar by sliding out */
+.sidebar.hidden {
+  transform: translateX(100%);
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1em auto;
+}
+
+.bio {
+  font-size: 0.9em;
+}
+
+.bio h2 {
+  text-align: center;
+  font-size: 1.4em;
+  margin-top: 0;
+}
+
+.bio ul {
+  padding-left: 1em;
+  list-style: disc;
+  margin: 0.5em 0;
+}
+
+.bio ul:last-child {
+  margin-bottom: 5em;
+}
+
+/* Responsive tweak for mobile */
+/* Responsive: sidebar full width at smaller screens */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+    transform: translateX(0);
+    border-left: none;
+    border-top: 1px solid #eee;
+  }
+
+  .sidebar.hidden {
+    display: none; /* For mobile, just hide */
+  }
+
+  .container {
+    margin-right: 0;
+  }
+}
+  
+
+
+
+
+
